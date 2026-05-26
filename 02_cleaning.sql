@@ -5,7 +5,7 @@
 ===================================================================================
   Purpose:
     This script applies fixes to the issues identified in the profiling script
-    (gamezone_profiling.sql).
+    (01_profiling.sql).
 
   Fixes applied:
     - PURCHASE_TS: normalized to YYYY-MM-DD and cast to DATE
